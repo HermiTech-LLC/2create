@@ -26,7 +26,7 @@ This project implements a Spiking Neural Network (SNN) in C++, integrates it wit
 1. Clone the repository:
 
    ```sh
-   git clone <repository_url>
+   git clone <>
    cd <repository_name>
    ```
 
