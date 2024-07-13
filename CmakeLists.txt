@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.14)
+project(snn)
+
+set(CMAKE_CXX_STANDARD 14)
+
+find_package(pybind11 REQUIRED)
+
+add_library(snn SHARED bindings.cpp snn_model.cpp)
+target_link_libraries(snn PRIVATE pybind11::module)
