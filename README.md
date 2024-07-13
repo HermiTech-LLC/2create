@@ -10,7 +10,9 @@ This project implements a Spiking Neural Network (SNN) in C++, integrates it wit
   - [SNN Model](#snn-model)
   - [Python Interface](#python-interface)
 - [Example](#example)
-
+___
+![img]()
+___
 ## Installation
 
 ### Prerequisites
