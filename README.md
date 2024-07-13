@@ -26,8 +26,8 @@ This project implements a Spiking Neural Network (SNN) in C++, integrates it wit
 1. Clone the repository:
 
    ```sh
-   git clone <>
-   cd <repository_name>
+   git clone <https://github.com/HermiTech-LLC/2create.git>
+   cd <2create>
    ```
 
 2. Create a build directory and navigate into it:
