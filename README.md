@@ -57,7 +57,7 @@ This will compile the C++ code and create a shared library that can be used in P
 ```python
 import snn
 import numpy as np
-from pattern_recognition import CognitiveModel
+from pattern_recon import CognitiveModel
 
 num_neurons = 10
 cognitive_model = CognitiveModel(num_neurons)
