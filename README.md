@@ -30,10 +30,9 @@ This project implements a Spiking Neural Network (SNN) in C++, integrates it wit
    cd 2create
    ```
 
-2. Create a build directory and navigate into it:
+2. Navigate into it build directory:
 
    ```sh
-   mkdir build
    cd build
    ```
 
